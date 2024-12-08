@@ -61,4 +61,8 @@ This project is a simple Tic-Tac-Toe game built using Python and the `pygame` li
    pip install pygame numpy
 3. Save the code in a .py file and run it.
     ```bash
-    python main.p
+    python app.py
+
+## Developed By
+
+**Mashal Fatima**
