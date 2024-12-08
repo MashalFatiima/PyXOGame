@@ -1,5 +1,4 @@
-# Python_GUI_PyGame_TicTacToe
-# Tic-Tac-Toe Game
+# Python GUI PyGame TicTacToe
 
 This project is a simple Tic-Tac-Toe game built using Python and the `pygame` library. The game features a graphical interface where two players can play Tic-Tac-Toe against each other on a 3x3 grid. The goal is to align three of your marks (either "X" or "O") in a row, column, or diagonal.
 
